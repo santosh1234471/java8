@@ -1,0 +1,4 @@
+This is String one
+String1 contains String1+String2
+4rth line is combination of one two three
+welcome to java8 functional interface,lambda,stream,optional class
